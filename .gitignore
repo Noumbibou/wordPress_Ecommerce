@@ -1,0 +1,13 @@
+# Fichiers à ignorer pour un projet WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+*.log
+*.sql
+*.zip
+node_modules/
+vendor/
+.env
+.DS_Store
+Thumbs.db
